@@ -1,1 +1,2 @@
-hello£¬word
+helloï¿½ï¿½word
+public 
